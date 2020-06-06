@@ -1,7 +1,8 @@
 {
   "name": "ionicsql",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
